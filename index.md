@@ -6,6 +6,16 @@ description: "Home"
 permalink: /
 ---
 
-# 데브이누의 기술 블로그
-Default label
-{: .label .label-yellow-300 }
+# Devinu
+Machine Learning Engineer
+
+---
+
+## 프로필
+{: .green-000 }
+
+## 경력
+
+## 주요 프로젝트
+
+## 일상 블로그
