@@ -1,5 +1,10 @@
 remote_theme: just-the-docs/just-the-docs
 
+title: Just the Docs
+description: A Jekyll theme for documentation
+baseurl: "/"
+url: "https://blog.devinu.org"
+
 search_enabled: true
 
 search:
