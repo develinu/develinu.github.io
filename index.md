@@ -6,8 +6,6 @@ description: "Home"
 permalink: /
 ---
 
-# Welcome to github.io
-{: .fs-8 }
-
-Github Description
-{: fs-6 .fw-300 }
+# 데브이누의 기술 블로그
+Default label
+{: .label .label-yellow-300 }
