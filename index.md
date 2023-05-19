@@ -19,7 +19,7 @@ MLOps에 관심이 많은 엔지니어입니다.
 ---
 
 ## 스킬
-{: .text-yellow-000 .fw-500 }
+{: .text-yellow-300 .fw-500 }
 
 - 언어 및 라이브러리 : Python, PyTorch, React, Svelte, Flutter
 - 기술 및 도구 : MLOps, ML Engineering, Data Engineering, Airflow, Kubernetes, Datahub, Spark, Kafka
@@ -28,7 +28,7 @@ MLOps에 관심이 많은 엔지니어입니다.
 ---
 
 ## 경력
-{: .text-green-000 .fw-500 }
+{: .text-yellow-300 .fw-500 }
 
 - 현) MLOps & AI 강의(현재, 2023~)
 - 전) 티빙, Data Engineer & ML Engineer(1년 4개월, 2021-2022)
@@ -39,7 +39,7 @@ MLOps에 관심이 많은 엔지니어입니다.
 ---
 
 ## 주요 프로젝트
-{: .text-green-000 .fw-500 }
+{: .text-yellow-300 .fw-500 }
 
 - 대규모 트래픽 서비스 내 딥러닝 기반 개인화 추천 모델 6종 배포 및 MLOps 도입
 - 공공기관 내 딥러닝 기반 예측 모델 1종 개발 및 배포
@@ -51,7 +51,7 @@ MLOps에 관심이 많은 엔지니어입니다.
 - 기상&해양 시뮬레이션 프레임워크 개발
 
 ### 사이드 프로젝트
-{: .text-green-000 .fw-500 }
+{: .text-yellow-300 .fw-500 }
 
 - SQL 통합 관리 플랫폼 개발(SQLHub)
 - ChatChat: AI ChatBot
@@ -64,7 +64,7 @@ MLOps에 관심이 많은 엔지니어입니다.
 ---
 
 ## 활동
-{: .text-green-000 .fw-500 }
+{: .text-yellow-300 .fw-500 }
 
 - AI 트렌드 오프라인 강연
 - MLOps 오프라인 강의[(대용량 트래픽을 지탱하는 MLOps)](https://learningspoons.com/course/detail/mlops/)
@@ -75,7 +75,7 @@ MLOps에 관심이 많은 엔지니어입니다.
 ---
 
 ## 관심 분야 및 기술
-{: .text-green-000 .fw-500 }
+{: .text-yellow-300 .fw-500 }
 
 - MLOps
 - [Metaflow](https://metaflow.org/)
@@ -84,7 +84,7 @@ MLOps에 관심이 많은 엔지니어입니다.
 ---
 
 ## 기타
-{: .text-green-000 .fw-500 }
+{: .text-yellow-300 .fw-500 }
 
 - [일상 블로그](https://brunch.co.kr/@7376732433224a9)
 - [링크드인](https://www.linkedin.com/in/inwoo-lee-513382165/)
