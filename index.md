@@ -30,10 +30,11 @@ MLOps에 관심이 많은 엔지니어입니다.
 ## 경력
 {: .text-green-000 .fw-500 }
 
-- 현) MLOps & AI 강의
-- 전) 티빙, Data Engineer & ML Engineer
-- 전) 데이터 솔루션 기업, CTO
-- 전) 크몽, Data Engineer
+- 현) MLOps & AI 강의(현재, 2023~)
+- 전) 티빙, Data Engineer & ML Engineer(1년 4개월, 2021-2022)
+- 전) 데이터 솔루션 기업, CTO(9개월, 2020-2021)
+- 전) 크몽, Data Engineer(1년 4개월, 2019-2020)
+- 전) KESTI(Korea Environmental Science & Technology Institute), Data Engineer(2년 4개월, 2017-2019)
 
 ---
 
