@@ -19,7 +19,7 @@ MLOps에 관심이 많은 엔지니어입니다.
 ---
 
 ## 스킬
-{: .text-green-000 .fw-500 }
+{: .text-yellow-000 .fw-500 }
 
 - 언어 및 라이브러리 : Python, PyTorch, React, Svelte, Flutter
 - 기술 및 도구 : MLOps, ML Engineering, Data Engineering, Airflow, Kubernetes, Datahub, Spark, Kafka
