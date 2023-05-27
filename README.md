@@ -1,2 +1,2 @@
 # develinu.github.io
-devinu blog
+[devinu's blog](https://blog.devinu.org)
