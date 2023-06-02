@@ -13,8 +13,7 @@ permalink: /
 MLOps에 관심이 많은 엔지니어입니다.   
 현재는 MLOps와 AI 관련 강사로 활동하고 있습니다.
 
-- 연락처 : 010-4226-3519
-- 이메일 : iwlee.dev@gmail.com
+![me_card](./assets/images/me.png)
 
 ---
 
