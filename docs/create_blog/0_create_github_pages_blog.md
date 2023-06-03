@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Github 블로그 만들기(for Windows)
-title: 0. 블로그용 Github 저장소 만들기
+title: 0. 블로그용 Github 저장소 만들기(for Windows)
 nav_order: 1
 ---
 
@@ -16,6 +16,9 @@ nav_order: 1
 {: .text-yellow-300 .fw-700 }
 
 <br>
+
+{: .note }
+**해당 글은 Windows 환경을 기준으로 작성되었습니다.**   
 참고자료 : [Github Pages 공식 문서](https://docs.github.com/ko/pages/quickstart)
 
 <br>
@@ -49,6 +52,7 @@ nav_order: 1
 
 <br>
 ④ `_config.yml` 파일의 설정을 통해 블로그의 이름과 테마 등을 지정할 수 있습니다.   
+
 ```yaml
 title: Devinu's Blog
 description: Devinu's Blog
@@ -63,20 +67,6 @@ url: "https://blog.devinu.org"
 {: .d-flex .flex-justify-around .fw-700 }
 
 <br>
-MLOps는 Machine Learning Operations를 의미합니다. 구체적으로는 위 그림과 같이 <strong class="text-yellow-300">데이터 엔지니어링 + 머신 러닝 + 개발 + 운영</strong>의 광범위한 개념입니다.
-현업에서 머신 러닝 모델을 실제 서비스 환경인 프로덕션으로 전환하기 위해서는 많은 어려움이 발생하게 됩니다.
-
----
-
-## 왜 필요한가요?
-{: .text-yellow-300 .fw-700 }
-
-<br>
-최근 AI가 급부상하면서 많은 기업에서 머신 러닝 기술을 도입하기 시작했습니다. 
-사실 이미 많은 기업에서 활용하고 있었지만 점점 많은 수의 머신러닝 프로젝트를 진행함에 따라 모델을 배포하고 관리하는 것이 큰 어려움으로 자리잡게 되었습니다. 
-또한 머신 러닝 프로젝트의 특성상 <strong class="text-yellow-300">모델의 성능과 데이터 품질에 대한 지속적인 관찰 및 대응 프로세스</strong>가 필요하게 되었습니다.
-이는 전통적인 애플리케이션 모니터링과는 조금 다른 특징과 프로세스를 필요로 하며, 이를 빠르고 일관성 있게 수행하기 위해서는 MLOps가 필요합니다.
-
-<br>
-MLOps에 대해서 구체적으로 들여다보기 전에 먼저 머신러닝 프로젝트가 어떤 방식으로 진행되는지 살펴볼 필요가 있습니다.
-<strong>이후 글에서는 머신러닝 프로젝트가 실제로 어떻게 진행되며 어떤 부분에서 어려움이 발생하는지 차근차근 정리해 볼 예정입니다.</strong>
+⑤ 빈 `index.md` 파일을 생성하고 해당 저장소를 업데이트 해주세요.   
+main 브랜치의 변경사항이 push되면 자동으로 페이지가 빌드됩니다.   
+빌드가 완료되면 `https://develinu.github.io`와 같이 해당 저장소 주소로 접속하여 확인할 수 있습니다.   

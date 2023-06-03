@@ -67,8 +67,14 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 color_scheme: dark
 
 callouts:
+  note:
+    title: 정보
+    color: green
   warning:
-    title: Warning
+    title: 주의
+    color: yellow
+  error:
+    title: 경고
     color: red
 
 collections:
