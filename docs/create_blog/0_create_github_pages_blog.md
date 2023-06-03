@@ -67,6 +67,20 @@ url: "https://blog.devinu.org"
 {: .d-flex .flex-justify-around .fw-700 }
 
 <br>
-⑤ 빈 `index.md` 파일을 생성하고 해당 저장소를 업데이트 해주세요.   
+⑤ `index.md` 파일을 생성하고 Markdown 텍스트를 채워넣은 뒤 해당 저장소를 업데이트 해주세요.   
 main 브랜치의 변경사항이 push되면 자동으로 페이지가 빌드됩니다.   
 빌드가 완료되면 `https://develinu.github.io`와 같이 해당 저장소 주소로 접속하여 확인할 수 있습니다.   
+
+```markdown
+# Devinu
+| Machine Learning Engineer
+
+MLOps에 관심이 많은 엔지니어입니다.   
+현재는 MLOps와 AI 관련 강사로 활동하고 있습니다.
+```
+
+<br>
+![create-blog-4](/assets/images/create_blog_4.png)
+
+[ index.md 파일 ]
+{: .d-flex .flex-justify-around .fw-700 }
