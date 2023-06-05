@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 parent: Github 블로그 만들기
 title: 0. 블로그용 Github 저장소 만들기
 nav_order: 1

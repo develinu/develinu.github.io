@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 parent: Github 블로그 만들기
 title: 1. 블로그 테마 적용하기
 nav_order: 2

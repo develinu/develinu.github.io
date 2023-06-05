@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 parent: MLOps
 title: 0. MLOps란 무엇인가?
 nav_order: 1

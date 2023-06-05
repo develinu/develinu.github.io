@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Home
 nav_order: 1
 description: "Home"
