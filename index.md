@@ -4,6 +4,10 @@ title: Home
 nav_order: 1
 description: "Home"
 permalink: /
+date: 2023-06-01
+sitemap:
+  changefreq: daily
+  priority: 0.1
 ---
 
 # Devinu

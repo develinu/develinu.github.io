@@ -6,7 +6,7 @@ nav_order: 2
 date: 2023-06-03
 sitemap:
   changefreq: daily
-  priority: 0.5
+  priority: 1.0
 ---
 
 # 블로그 테마 적용하기

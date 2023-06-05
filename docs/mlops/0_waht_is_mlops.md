@@ -6,7 +6,7 @@ nav_order: 1
 date: 2023-06-02
 sitemap:
   changefreq: daily
-  priority: 0.5
+  priority: 0.2
 ---
 
 # MLOps란 무엇인가요?
