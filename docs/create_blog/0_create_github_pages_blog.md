@@ -11,14 +11,24 @@ sitemap:
 ---
 
 # 블로그용 Github 저장소 만들기
-{: .fw-700 }
+{: .fw-700 .no_toc }
 2023년 6월 3일
 {: .d-flex .flex-justify-start .text-grey-dk-000 }
 
 ---
 
+## 목차
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<br>
+
 {: .note }  
 참고자료 : [Github Pages 공식 문서](https://docs.github.com/ko/pages/quickstart)
+
+<br>
 
 ## Step1. 블로그용 Github 저장소 만들기
 {: .text-yellow-300 .fw-700 }

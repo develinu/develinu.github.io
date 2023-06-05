@@ -10,11 +10,17 @@ sitemap:
 ---
 
 # 블로그 테마 적용하기
-{: .fw-700 }
+{: .fw-700 .no_toc }
 2023년 6월 3일
 {: .d-flex .flex-justify-start .text-grey-dk-000 }
 
 ---
+
+## 목차
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ## Step1. Jykell 블로그 테마 탐색
 {: .text-yellow-300 .fw-700 }
