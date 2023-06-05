@@ -3,10 +3,6 @@ layout: post
 parent: MLOps
 title: 0. MLOps란 무엇인가?
 nav_order: 1
-date: 2023-06-02
-sitemap:
-  changefreq: daily
-  priority: 0.5
 ---
 
 # MLOps란 무엇인가요?

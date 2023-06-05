@@ -2,7 +2,12 @@
 layout: post
 parent: Github 블로그 만들기
 title: 0. 블로그용 Github 저장소 만들기
+changefreq: weekly
 nav_order: 1
+date: 2023-06-03
+sitemap:
+  changefreq: daily
+  priority: 0.5
 ---
 
 # 블로그용 Github 저장소 만들기

@@ -3,6 +3,10 @@ layout: post
 parent: Github 블로그 만들기
 title: 1. 블로그 테마 적용하기
 nav_order: 2
+date: 2023-06-03
+sitemap:
+  changefreq: daily
+  priority: 0.5
 ---
 
 # 블로그 테마 적용하기
