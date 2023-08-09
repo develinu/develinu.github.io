@@ -60,8 +60,8 @@ MLOps에 관심이 많은 엔지니어입니다.
 - ChatChat: AI ChatBot
   - [ChatGPT 웹 서비스](https://chatchat-ai.com/)
   - [ChatGPT 모바일 서비스](https://play.google.com/store/apps/details?id=com.p_001.devinu)
-- [스터디 인증 페이지](https://study.codesalon.org/)
-- [직무 트렌드 통계](https://job-trend.codesalon.org/job-trend)
+- [스터디 인증 페이지](https://study.devinu.org/)
+- [직무 트렌드 통계](https://job-trend.devinu.org/job-trend)
 - [디자인 100일 챌린지](https://daily-ui.devinu.org/)
 
 ---
