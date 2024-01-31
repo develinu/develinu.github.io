@@ -44,7 +44,7 @@ robots.txt 를 통한 자동 감지, 페이지 URL, 페이지 변화의 주기, 
 sitemap.xml 파일은 웹 페이지 최상위 경로에 위치시키면 됩니다. :)
 
 sitemap.xml
-```xml
+```text
 ---
 layout: null
 ---
