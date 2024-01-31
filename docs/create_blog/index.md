@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Github 블로그 만들기(작성중)
+# Github 블로그 만들기
 {: .text-yellow-300 .fw-700 }
 
 <br>

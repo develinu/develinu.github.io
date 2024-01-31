@@ -154,4 +154,31 @@ Sitemap: https://blog.devinu.org/sitemap.xml
 해당 페이지의 웹 마스터 도구를 통해 내 사이트를 등록하고, 가이드에 알맞게 등록 과정을 진행합니다.  
 (소유권 확인, 사이트맵 제출)
 
-이제 시간이 지나면 내 블로그가 검색 엔진에 노출되게 됩니다.
+## Step5. 포스팅 시 메타데이터 적용하기
+
+위 과정을 진행하셨으면 이제 시간이 지나면 내 블로그가 검색 엔진에 노출되게 됩니다.
+위에서 작성했던 sitemap.xml 의 내용을 살펴보면, layout이 post인 파일에서 크롤러가 필요한 속성을 가져가도록 설정했습니다.
+
+sitemap.xml 에서 지정해 준 속성 값들은 다음과 같습니다.
+- page.date
+- page.lastmod
+- page.sitemap.changefreq
+- page.sitemap.priority
+
+따라서 포스팅 시 위 메타데이터들을 지정해주어야 합니다.
+지정해주지 않을 시 default 값으로 채워지게 되고 이는 검색 엔진 노출에 불리한 영향을 주게 됩니다.
+포스팅 최상단에 아래와 같이 메타데이터를 지정해줄 수 있습니다.
+
+```text
+---
+layout: post
+parent: Github 블로그 만들기
+title: 3. 검색 엔진에 블로그 노출 시키기
+nav_order: 4
+date: 2024-01-31
+lastmod: 2024-01-31
+sitemap:
+  changefreq: daily
+  priority: 1.0
+---
+```
