@@ -44,10 +44,11 @@ robots.txt 를 통한 자동 감지, 페이지 URL, 페이지 변화의 주기, 
 sitemap.xml 파일은 웹 페이지 최상위 경로에 위치시키면 됩니다. :)
 
 sitemap.xml
-```text
+```xml
 ---
 layout: null
 ---
+{% raw %}
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" 
@@ -78,6 +79,7 @@ layout: null
     {% endif %}
   {% endfor %}
 </urlset>
+{% endraw %}
 ```
 
 저는 위와 같이 jinja2 템플릿을 활용해서 layout이 post인 페이지들의 URL을 일괄 생성하고,
