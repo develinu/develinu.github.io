@@ -117,6 +117,8 @@ Sitemap: https://blog.devinu.org/sitemap.xml
 - [Google 크롤러의 robots.txt 작성 가이드](https://developers.google.com/search/docs/crawling-indexing/robots/create-robots-txt?hl=ko#create_rules)
 - [Naver 크롤러의 robots.txt 작성 가이드](https://searchadvisor.naver.com/guide/seo-basic-robots)
 
+<br>
+
 ## Step3. Google 검색 엔진 등록
 {: .text-yellow-300 .fw-700 }
 
@@ -154,8 +156,12 @@ Sitemap: https://blog.devinu.org/sitemap.xml
 해당 페이지의 웹 마스터 도구를 통해 내 사이트를 등록하고, 가이드에 알맞게 등록 과정을 진행합니다.  
 (소유권 확인, 사이트맵 제출)
 
-## Step5. 포스팅 시 메타데이터 적용하기
+<br>
 
+## Step5. 포스팅 시 메타데이터 적용하기
+{: .text-yellow-300 .fw-700 }
+
+<br>
 위 과정을 진행하셨으면 이제 시간이 지나면 내 블로그가 검색 엔진에 노출되게 됩니다.
 위에서 작성했던 sitemap.xml 의 내용을 살펴보면, layout이 post인 파일에서 크롤러가 필요한 속성을 가져가도록 설정했습니다.
 
