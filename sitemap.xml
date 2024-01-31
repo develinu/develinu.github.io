@@ -8,7 +8,7 @@ layout: null
   {% for page in site.pages %}
     {% if page.layout == "post" %}
       <url>
-        <loc>{{ site.url }}/{{ page.path }}</loc>
+        <loc>{{ site.url }}/{{ page.path | replace: '.md', '.html' }}</loc>
         {% if post.lastmod == null %}
           <lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
         {% else %}
