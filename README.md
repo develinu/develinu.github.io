@@ -6,8 +6,7 @@
 ### Devinu
 **| Machine Learning Engineer**
 
-MLOps에 관심이 많은 엔지니어입니다.   
-현재는 MLOps와 AI 관련 강사로 활동하고 있습니다.
+MLOps와 데이터 엔지니어링 강사로 활동하고 있습니다.
 
 - 연락처 : 010-4226-3519
 - 이메일 : iwlee.dev@gmail.com
@@ -16,17 +15,35 @@ MLOps에 관심이 많은 엔지니어입니다.
 ## 스킬
 
 - 언어 및 라이브러리 : Python, PyTorch, React, Svelte, Flutter
-- 기술 및 도구 : MLOps, ML Engineering, Data Engineering, Airflow, Kubernetes, Datahub, Spark, Kafka
+- 기술 및 도구 : MLOps, ML Engineering, Data Engineering, Airflow, Kubernetes, Datahub, Spark, Kafka, MySQL
 - 기타 : AWS Cloud Services, Figma
 
 
 ## 경력
 
 - 현) MLOps & AI 강의(현재, 2023~)
+- 현) 벌크럼 연구소장(현재, 2023~)
 - 전) 티빙, Data Engineer & ML Engineer(1년 4개월, 2021-2022)
 - 전) 데이터 솔루션 기업, CTO(9개월, 2020-2021)
 - 전) 크몽, Data Engineer(1년 4개월, 2019-2020)
 - 전) KESTI(Korea Environmental Science & Technology Institute), Data Engineer(2년 4개월, 2017-2019)
+
+
+
+## 강의 및 활동
+
+- Docker 특강
+- 멀티캠퍼스, SSAFY 직무면접 & 포트폴리오 멘토링
+- 솔트룩스, 데이터 엔지니어링 심화(응용)
+- 솔트루스, 데이터 과학 입문
+- 패스트캠퍼스, MLOps 프로젝트 멘토링
+- 멀티캠퍼스, SSAFY 포트폴리오 멘토링 특강
+- 데이터 엔지니어링 중급
+- AI 트렌드 오프라인 특강
+- 러닝스푼즈, MLOps 오프라인 강의[(대용량 트래픽을 지탱하는 MLOps)](https://learningspoons.com/course/detail/mlops/)
+- AWS, AWS Industry Week 2022, MLOps 세션 발표[(TVING의 Data Analytics부터 개인화 추천까지)](https://kr-resources.awscloud.com/aws-industry-week-2022-media)
+- 기상청, 딥러닝 기초 특강
+- 코멘토, Data Engineering 멘토링
 
 
 ## 주요 프로젝트
@@ -43,25 +60,7 @@ MLOps에 관심이 많은 엔지니어입니다.
 ### 사이드 프로젝트
 
 - SQL 통합 관리 플랫폼 개발(SQLHub)
-- ChatChat: AI ChatBot
-  - [ChatGPT 웹 서비스](https://chatchat-ai.com/)
-  - [ChatGPT 모바일 서비스](https://play.google.com/store/apps/details?id=com.p_001.devinu)
-- [스터디 인증 페이지](https://study.codesalon.org/)
-- [직무 트렌드 통계](https://job-trend.codesalon.org/job-trend)
+- ChatGPT 기반 AI 챗봇 서비스
+  - [ChatChat: AI ChatBot](https://play.google.com/store/apps/details?id=com.p_001.devinu)
+- [스터디 인증 페이지](https://study.devinu.org/)
 - [디자인 100일 챌린지](https://daily-ui.devinu.org/)
-
-
-## 활동
-
-- AI 트렌드 오프라인 강연
-- MLOps 오프라인 강의[(대용량 트래픽을 지탱하는 MLOps)](https://learningspoons.com/course/detail/mlops/)
-- AWS Industry Week 2022, MLOps 세션 발표[(TVING의 Data Analytics부터 개인화 추천까지)](https://kr-resources.awscloud.com/aws-industry-week-2022-media)
-- 기상청, 딥러닝 기초 특강
-- 코멘토, Data Engineering 멘토링
-
-
-## 관심 분야 및 기술
-
-- MLOps
-- [Metaflow](https://metaflow.org/)
-- Generative AI
